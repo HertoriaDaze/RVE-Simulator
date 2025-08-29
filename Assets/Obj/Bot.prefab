@@ -278,4 +278,4 @@ MonoBehaviour:
   valueThreshold: 100
   gamma: 1.165
   alpha: 0.3
-  strategy: 1
+  strategy: 0
