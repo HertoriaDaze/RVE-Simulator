@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RVE-Simulator
 
 
@@ -92,3 +93,6 @@ Usage:
 
 
 
+=======
+Code for conducting experiments to study the RVE model
+>>>>>>> 49f32b172113d7ec6d087eef73be734157d0512e
